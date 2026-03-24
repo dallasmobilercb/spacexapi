@@ -1,8 +1,6 @@
 Write a small app where you will consume the following endpoint:
 
-SpaceX - Detailed info on Dragon crew members
-
-https://api.spacexdata.com/v4/crew
+https://api.spacexdata.com/v3/launches
 
 Tools:
 
