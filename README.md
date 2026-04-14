@@ -1,6 +1,7 @@
 Write a small app where you will consume the following endpoint:
 
-https://api.spacexdata.com/v3/launches
+1) https://api.spacexdata.com/v3/launches
+2) https://api.spacexdata.com/v4/crew
 
 Tools:
 
@@ -11,9 +12,23 @@ Tools:
 
 Feel free to build it with XML or Compose UI Design, the app will have the following requirements:
 
-	•	Home Screen
+# Requirements for Link 1 #
+	## Home Screen ##
 	1.	Home Screen Title: SpaceX Rocket Launches
-	2.	Load a list with all Rockets received in the payload.
-	3.	The row item will have the following design: Launch Icon, Mission Name & Missiong Details
+	2.	Load a list with all Rockets, each row item will have the following items:
+            > Launch Icon
+            > Mission Name
+            > Missiong Details
+
+Or
+
+# Requirements for Link 2 #
+	## Home Screen ##
+	1.	Home Screen Title: Crew Members
+	2.	Load a list with Crew members, each row item will have the following crew member items:
+        > Icon
+        > Name
+        > Agency
+        > Status
 
 Good Luck!
